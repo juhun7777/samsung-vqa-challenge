@@ -332,7 +332,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Juhun Lee**
 - GitHub: [@juhun7777](https://github.com/juhun7777)
-- Email: your.email@example.com
+- Email: juhun7777@gmail.com
 
 ---
 
